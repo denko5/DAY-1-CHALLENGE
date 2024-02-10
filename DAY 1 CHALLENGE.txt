@@ -1,0 +1,9 @@
+DIFFERENCE BETWEEN SQL AND NO-SQL
+
+1) SQL databases are reffered to as relational databases while No-SQL databases are reffered to as non-relational databases.
+2) SQL databases are vertically saclable while No-SQL databases are horizontally scalable.
+3) SQL has a fixed-defined schema, while NoSQL is more flexible.
+4) SQL data storage model is in tables with fixed rows and columns. While No-SQL data storage model is in document format like
+   in JSON documents, xml.
+5) SQL databases use a powerful language named structured query language to manipulate data. While No-SQL databases uses a 
+   collection of documents to query the data.
